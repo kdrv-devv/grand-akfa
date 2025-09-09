@@ -12,7 +12,7 @@ export default function Footer() {
             </p>
             </div>  
             
-    
+
           {/* Quick Links */}
           <div>
             <h4 className="text-lg font-semibold text-foreground mb-4">Tezkor havolalar</h4>
@@ -62,7 +62,7 @@ export default function Footer() {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center">
-          <p className="text-muted-foreground">© 2024 GrandAkfa. Barcha huquqlar himoyalangan.</p>
+          <p className="text-muted-foreground">© 2025 GrandAkfa. Barcha huquqlar himoyalangan.</p>
         </div>
       </div>
     </footer>
